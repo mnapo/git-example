@@ -1,0 +1,25 @@
+{
+  "name": "git-example",
+  "version": "1.0.0",
+  "description": "Hola :D!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnapo/git-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnapo/git-example/issues"
+  },
+  "homepage": "https://github.com/mnapo/git-example#readme",
+  "dependencies": {
+    "figlet": "^1.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
